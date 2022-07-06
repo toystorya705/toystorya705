@@ -5,7 +5,7 @@
 
 - Project [Ecommerce-Website](http://ecommerce-website99.herokuapp.com/)
 
-- Project [Web Scraping Website](https://github.com/toystorya705/webDevProject)
+- Project [Web Scraping Website](https://webscaping-website.herokuapp.com/)
 
 - Project [Data Visualization Website](https://aryan-website-yoyo.s3.amazonaws.com/index/index.html)
 
