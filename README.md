@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Vue js, AWS and DSA**
 
-- 🤝 I’m looking for help with [Web Scraping Website](https://github.com/toystorya705/webDevProject)
+- Project [Ecommerce-Website](http://ecommerce-website99.herokuapp.com/)
+
+- Project [Web Scraping Website](https://github.com/toystorya705/webDevProject)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
