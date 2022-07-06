@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 -->
+
+Full Stack Developer experienced in developing, designing, and deploying both backend and frontend websites using a range of technologies and programming languages. Like HTML, JavaScript, TypeScript, Bootstrap, MongoDB, Redis, MySQL, Spring, and AWS.  
+
+
 - 🔭 I’m currently working on webBasedMobileApp
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 
