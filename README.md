@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
-- Projects [Pac Mac Game Website](https://pac-man-game-production.up.railway.app/)
 
-- 🌱 I’m currently learning **Vue js, AWS and DSA**
-
-- Project [Ecommerce-Website](https://ecommerce-website-production.up.railway.app/)
-
-- Project [Web Scraping Website](https://javascriptwebscraping-production.up.railway.app/)
-
-  
 - Currently working on:
       E-commerce (WordPress website Frontend https://demo18.iclicksee-staging.com/ and Laravel Backend )
       E-commerce (Vue.js website Frontend https://twinkleenterprises-production.up.railway.app/ and Nest Backend )
 - Managing Laravel Vue CRM:https://crm.oenogroup.com/
       Larevel React Native Android APP: https://play.google.com/store/apps/details?id=com.oeno.phone.app   
+
+- Project [Ecommerce-Website](https://ecommerce-website-production.up.railway.app/)
+
+- Project [Web Scraping Website](https://javascriptwebscraping-production.up.railway.app/)
+
+- Projects [Pac Mac Game Website](https://pac-man-game-production.up.railway.app/)
+
+- 🌱 I’m currently learning **Vue js, AWS and DSA**
+
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
